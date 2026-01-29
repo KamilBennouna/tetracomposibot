@@ -2,7 +2,7 @@
 # File Name                      : robot_braitenberg_hateWall.py
 # UE                             : LU3IN025 - IA & Jeux - TME01
 # Writers                        : BENNOUNA Kamil - 21204602
-#                                : NOM Prénom - No_étudiant
+#                                : KHENNOUSSI Hanane - 21318242
 # Creation date                  : 29/01/2026
 # Last update date               : 29/01/2026 @ 1230
 # Description                    : Braitenberg, ignores robots, hates walls (actively
